@@ -1,4 +1,7 @@
 # 201621229SeongTaek
+## In-Class Homework Week 1 Day 1 #1
+### 안드로이드 스튜디오 구동확인
+
 
 ## In-Class Homework Week 2 Day 1 #1
 ### 화면 출력변경
