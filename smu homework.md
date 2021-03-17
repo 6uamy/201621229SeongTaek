@@ -15,4 +15,10 @@
 
 #### >> https://user-images.githubusercontent.com/79950091/110743654-bab5d880-827b-11eb-96e0-4c4cdce99c8f.PNG
 
+## In-Class Homework Week 3 Day 1 #1
+
+### LifeCycle 확인 동영상 제작
+
+#### >> https://www.youtube.com/watch?v=4DP92Fjo_7A
+
 
