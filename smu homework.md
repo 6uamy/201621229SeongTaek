@@ -21,4 +21,10 @@
 
 #### >> https://www.youtube.com/watch?v=4DP92Fjo_7A
 
+## In-Class Homework Week 4 Day 1 #1
+
+### interfaceMeasurable” branch에 대한 github link
+
+#### >> https://github.com/6uamy/InterfaceDemo/tree/InterfaceMeasurable
+
 
