@@ -33,5 +33,24 @@
 
 #### >> https://github.com/6uamy/ButtonApp0325/commit/9c3728d7b09b00499b92663bad18138f899131ff
 
+## In-class homework: Week 5 Day 1 File 1 #1
+
+### “Inner class implementation 1 (with "this")”
+
+#### >> https://github.com/6uamy/BtnWiInnerClass/tree/innerClassWiThis
+
+## In-class homework: Week 5 Day 1 File 1 #2
+
+### “Inner class implementation 2 (without "this")”
+
+#### >> https://github.com/6uamy/BtnWiInnerClass/tree/innerClassWoThis
+
+## In-class Homework: Week 5 Day 1 File 1 #3 
+
+### “Multiple button’s onClickListener”
+
+#### >> https://github.com/6uamy/BtnWiInnerClass/tree/addSecondButton
+
+
 
 
