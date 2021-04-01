@@ -51,6 +51,19 @@
 
 #### >> https://github.com/6uamy/BtnWiInnerClass/tree/addSecondButton
 
+## In-class homework: Week 5 Day 2 File 1 #1
+
+### “Anonymous class ”
+
+#### >> https://github.com/6uamy/AnonymousClass/tree/AnonymousInnerClass
+
+## In-class homework: Week 5 Day 2 File 1 #2 
+
+### “Anonymous class for multiple buttons”
+
+#### >> https://github.com/6uamy/AnonymousClass/commit/8a9c3662bdcc60daef0426fbeaa1338f746778a6
+
+
 
 
 
