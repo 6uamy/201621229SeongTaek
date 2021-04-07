@@ -75,6 +75,9 @@
 
 #### >> https://github.com/6uamy/GetSensorList/tree/sensorlListingButton
 
+## In-class homework: Week 6 Day 1 File 1 #3 
 
+### "onClick Outside onCreate"
 
+#### >> https://github.com/6uamy/GetSensorList/tree/onClickOutsideOnCreate
 
