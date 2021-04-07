@@ -63,6 +63,12 @@
 
 #### >> https://github.com/6uamy/AnonymousClass/commit/8a9c3662bdcc60daef0426fbeaa1338f746778a6
 
+## In-class homework: Week 6 Day 1 File 1 #1 
+
+### “Sensor List With ScrollView”
+
+#### >> https://github.com/6uamy/GetSensorList/tree/sensorListWiScrollView
+
 
 
 
