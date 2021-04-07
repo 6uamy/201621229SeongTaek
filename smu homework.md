@@ -69,6 +69,11 @@
 
 #### >> https://github.com/6uamy/GetSensorList/tree/sensorListWiScrollView
 
+## In-class homework: Week 6 Day 1 File 1 #2 
+
+### “get sensor list using ScrollView + button”
+
+#### >> https://github.com/6uamy/GetSensorList/tree/sensorlListingButton
 
 
 
