@@ -81,3 +81,15 @@
 
 #### >> https://github.com/6uamy/GetSensorList/tree/onClickOutsideOnCreate
 
+## In-class homework: Week 6 Day 1 File 1 #3 
+
+### "onClick Outside onCreate"
+
+#### >> https://github.com/6uamy/LocProviderList/tree/addButton
+
+## In-Class Homework: Week 6 Day 2 File 3 #2
+
+### "Enhanced for loop"
+
+#### >> https://github.com/6uamy/LocProviderList/tree/EnhancedForLoop
+
