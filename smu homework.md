@@ -81,9 +81,9 @@
 
 #### >> https://github.com/6uamy/GetSensorList/tree/onClickOutsideOnCreate
 
-## In-class homework: Week 6 Day 1 File 1 #3 
+## In-Class Homework: Week 6 Day 2 File 3 #1 
 
-### "onClick Outside onCreate"
+### "add button to list location providers"
 
 #### >> https://github.com/6uamy/LocProviderList/tree/addButton
 
