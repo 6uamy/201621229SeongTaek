@@ -99,4 +99,10 @@
 
 #### >> https://github.com/6uamy/LocProviderInfo/tree/providersInfo
 
+## In-Class Homework: Week 7 Day 1 File 2 #1
+
+### "complete onResume"
+
+#### >> https://github.com/6uamy/BestLocProvider
+
 
