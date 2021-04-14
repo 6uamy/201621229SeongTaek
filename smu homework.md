@@ -93,3 +93,10 @@
 
 #### >> https://github.com/6uamy/LocProviderList/tree/EnhancedForLoop
 
+## In-Class Homework: Week 7 Day 1 File 1 #1
+
+### "loc.providers' info"
+
+#### >> https://github.com/6uamy/LocProviderInfo/tree/providersInfo
+
+
