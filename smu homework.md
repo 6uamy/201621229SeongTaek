@@ -105,4 +105,17 @@
 
 #### >> https://github.com/6uamy/BestLocProvider
 
+## In-class homework: Week 7 Day 2 File 1 #1
+
+### "save power"
+
+#### >> https://github.com/6uamy/GetOrientation/tree/savePower
+
+## In-class homework: Week 7 Day 2 File 2 #2
+
+### "compass + sensors"
+
+#### >> https://github.com/6uamy/GetOrientation/tree/compassWiSensors
+
+
 
