@@ -117,5 +117,8 @@
 
 #### >> https://github.com/6uamy/GetOrientation/tree/compassWiSensors
 
+## In-class homework: Week 8 Day 1 File 1 #1 
+### "compass + map"
+#### >> https://github.com/6uamy/CompassAppWiBtn/tree/compass%2Bmap
 
 
