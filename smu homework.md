@@ -121,4 +121,8 @@
 ### "compass + map"
 #### >> https://github.com/6uamy/CompassAppWiBtn/tree/compass%2Bmap
 
+## In-class homework: Week 9 Day 1 File 1 #1
+### "Java + Kotlin app"
+#### >> https://github.com/6uamy/HelloKotlin/tree/BmiCalculation
+
 
