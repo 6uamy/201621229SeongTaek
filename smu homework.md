@@ -125,4 +125,7 @@
 ### "Java + Kotlin app"
 #### >> https://github.com/6uamy/HelloKotlin/tree/BmiCalculation
 
+## In-class homework: Week 9 Day 2 File 1 #1
+### "Display elapsed time"
+#### >> https://github.com/6uamy/HelloKotlin/tree/TimeElapsed
 
