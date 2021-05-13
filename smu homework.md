@@ -129,3 +129,21 @@
 ### "Display elapsed time"
 #### >> https://github.com/6uamy/HelloKotlin/tree/TimeElapsed
 
+
+## In-class homework: Week 10 Day 1 File 1 #1 
+### "switch - case"
+#### >> https://github.com/6uamy/HelloKotlin/tree/FlowControl
+
+## In-class homework: Week 10 Day 1 File 1 #2 
+### "Kotlin when"
+#### >> https://github.com/6uamy/HelloKotlin/tree/flowControl-Kotlin
+
+
+## In-class homework: Week 11 Day 1 File 2 #1 
+### "메뉴 화면 완성시키기(Text 값, image 변경)"
+#### >> https://github.com/6uamy/Lotto/tree/Menu
+
+
+## In-class homework: Week 11 Day 2 File 1 #1
+### "OpenConstellationActivity"
+#### >> https://github.com/6uamy/Lotto/tree/OpenConstellationActivity
